@@ -910,9 +910,8 @@ If you get this error while bun is initializing, You probably need to wrap the b
 
 1. Install intel-sde
 
-
-    - Arch Linux: `yay -S intel-sde`
-    - Other Distros:
+   - Arch Linux: `yay -S intel-sde`
+   - Other Distros:
 
 ```
 # wget https://downloadmirror.intel.com/732268/sde-external-9.7.0-2022-05-09-lin.tar.xz -O /tmp/intel-sde.tar.xz
